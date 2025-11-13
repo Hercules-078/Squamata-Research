@@ -8,7 +8,7 @@ Influence of biogeographic realm on global body size and reproductive variation 
 
 This project investigates how body size (SVL) and clutch size vary across different biogeographic realms in Squamata (lizards and snakes). Using a large compiled dataset, we tested whether environmental gradients—especially latitude and temperature—influence morphological and reproductive traits. The study was designed to evaluate patterns predicted by Bergmann’s Rule and other ecogeographical principles.
 
- ##What We Did
+ ## What We Did
 
 Collected and cleaned morphological data (SVL), reproductive data (clutch size), and geographic realm categorizations.
 
